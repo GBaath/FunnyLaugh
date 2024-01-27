@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gvb7m\\documents\\unreal projects\\funnylaugh\\plugins\\uanimatedtexture5-master\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\libwebp\\src\\dsp\\ssim.c",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\gvb7m\\documents\\unreal projects\\funnylaugh\\plugins\\uanimatedtexture5-master\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\animatedtexture\\definitions.c.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\assert.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\vadefs.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\stdlib.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_malloc.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_search.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\stddef.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_wstdlib.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\limits.h",
+            "c:\\users\\gvb7m\\documents\\unreal projects\\funnylaugh\\plugins\\uanimatedtexture5-master\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\libwebp\\src\\dsp\\dsp.h",
+            "c:\\users\\gvb7m\\documents\\unreal projects\\funnylaugh\\plugins\\uanimatedtexture5-master\\plugins\\animatedtextureplugin\\source\\animatedtexture\\private\\libwebp\\src\\webp\\types.h"
+        ]
+    }
+}
